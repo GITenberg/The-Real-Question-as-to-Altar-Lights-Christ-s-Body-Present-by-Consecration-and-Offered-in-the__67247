@@ -1,0 +1,33 @@
+_repo: The-Real-Question-as-to-Altar-Lights-Christ-s-Body-Present-by-Consecration-and-Offered-in-the__67247
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phipps, Edward James
+    alias: Phipps, Edward J.
+    gutenberg_agent_id: '54171'
+    url: http://www.gutenberg.org/2009/agents/54171
+description: ''
+gutenberg_issued: '2022-01-25'
+identifiers:
+  gutenberg: '67247'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/The_Real_Question_as_to_Altar_Lights_Chr/cChdAAAAcAAJ
+pgterms:marc905: 20210422132320phipps
+pgterms:marc906: '1865'
+pgterms:marc907: gb
+production_note: Mark C. Orton, Thomas Frost and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: United Kingdom :Longmans, Green, Reader and Dyer,1865.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of England -- Doctrines'
+- !lcc 'BX'
+- !lcsh 'Lord''s Supper -- Church of England'
+- !lcsh 'Ritualism'
+- GITenberg
+title: "The Real Question as to Altar Lights\r\nChrist's Body Present by Consecration,\
+  \ and Offered in the Sacrament of the Altar: A Letter to the Rev. John W.H. Molyneux"
+url: http://www.gutenberg.org/ebooks/67247
