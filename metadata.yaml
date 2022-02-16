@@ -1,5 +1,8 @@
 _repo: The-Real-Question-as-to-Altar-Lights-Christ-s-Body-Present-by-Consecration-and-Offered-in-the__67247
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67247-h/images/cover.jpg
 creator:
   author:
     agent_name: Phipps, Edward James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54171'
     url: http://www.gutenberg.org/2009/agents/54171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67247#The-Real-Question-as-to-Altar-Lights-Christ-s-Body-Present-by-Consecration-and-Offered-in-the_
 gutenberg_issued: '2022-01-25'
 identifiers:
   gutenberg: '67247'
